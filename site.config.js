@@ -4,7 +4,7 @@ export default {
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
-  rootNotionSpaceId: "Index-67026a295e3d44299e280d54f7c80fc6",
+  rootNotionSpaceId: 'Index-67026a295e3d44299e280d54f7c80fc6',
 
   // basic site info (required)
   name: 'JiankunSun’s Blog',
