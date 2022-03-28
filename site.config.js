@@ -1,10 +1,10 @@
 export default {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '78fc5a4b88d74b0e824e29407e9f1ec1',
+  rootNotionPageId: 'ndex-67026a295e3d44299e280d54f7c80fc6',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
-  rootNotionSpaceId: 'Index-67026a295e3d44299e280d54f7c80fc6',
+  rootNotionSpaceId: null,
 
   // basic site info (required)
   name: 'JiankunSun’s Blog',
